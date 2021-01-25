@@ -1,0 +1,53 @@
+<head>
+    <style>
+
+body{}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+#big{
+font-size: larger;
+}
+
+#small{
+    font-size: smaller;
+}
+
+#center{
+    text-align: center;
+}
+
+#bold{
+    font-weight: bold;
+}
+
+#cursive{
+    font-family: cursive;
+}
+
+.multiple{
+    font-size: larger;
+    color: orange;
+    font-weight: bolder;
+}
+
+.styledFont{
+    font-style: italic;
+    color: green;
+}
+
+#styledImage{
+   border: 20px solid rgb(255, 155, 5);
+}
+    </style>
+</head>

@@ -1,0 +1,21 @@
+Errors Found
+
+
+
+-line 19 missing <h1> tags
+-line 28 missing <p> tags
+-line 40 missing actualy url in ""
+-line 47 missing container carrots < >
+-two div containers swapped (moved line 89-109 to 56)
+-moved line 70-78 to 58
+-moved  line 108 to 81
+- line 99-103 missing <li> tags
+- line 69-71 id does NOT correspond to stated color
+-line 113 script source name was wrong
+
+-------------
+
+logic.js file errors
+- line 9 pink missing ""
+-line 6 boo facts array has "" over entire entry making it one item need to sepate with more ""
+- line 20 & 25 the on click needs ""
